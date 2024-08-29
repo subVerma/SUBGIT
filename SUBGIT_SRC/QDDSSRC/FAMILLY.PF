@@ -12,8 +12,9 @@
       **                                                               *       *
       **%E=============================================================*       *
       ** AUTHOR:                          00:00                        *       *
-      ** MODIFS: 03 SRFVRF     08/29/2024 12:04  FT.00.06    00/       *       *
+      ** MODIFS: 03 SRFVRF     08/29/2024 13:10  FT.00.06    00/       *       *
       **         02 ACLARK     08/23/2024 17:16  FT.00.02    00/       *       *
+      **         02 SRFVRF     08/29/2024 13:08  01.00.08    00/       *       *
       **         01 ACLARK     08/22/2024 23:20  01.00.04    00/       *       *
       *%ECSTD==========================================================*       *
                                             REF(SAMREF)
@@ -28,7 +29,7 @@
                                             COLHDG('CREAETION' 'DATE')
                   FAMOD           Z         TEXT('LAST MODIFICATION')
                                             COLHDG('LAST' 'MODIFICATION')
-                  FAMODID       12          TEXT('LAS MOD BY')
+                  FAMODID       14          TEXT('LAS MOD BY')
                                             COLHDG('LAST' 'MODIF.' 'BY')
                   FADEL     R               REFFLD(DLCODE)
                 K FAID
