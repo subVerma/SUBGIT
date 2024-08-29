@@ -1,3 +1,23 @@
+      *%CSTD===========================================================*       *
+      ** Application. : SUBGIT     Arcad Demo                          *       *
+      ** Component. . : FAMILLY                       Type: PF         *       *
+      **===============================================================*       *
+      ** Sub-system . :                                                *       *
+      ** Function . . :                                                *       *
+      ** Sub-function :                                                *       *
+      **%S=============================================================*       *
+      ** Description of functions:                                     *       *
+      **                                                               *       *
+      **                                                               *       *
+      **                                                               *       *
+      **%E=============================================================*       *
+      ** AUTHOR:                          00:00                        *       *
+      ** MODIFS: 05 SRFVRF     08/29/2024 14:20  FT.00.08    00/       *       *
+      **         03 SRFVRF     08/29/2024 13:10  FT.00.06    00/       *       *
+      **         02 ACLARK     08/23/2024 17:16  FT.00.02    00/       *       *
+      **         02 SRFVRF     08/29/2024 13:20  01.00.08    00/       *       *
+      **         01 ACLARK     08/22/2024 23:20  01.00.04    00/       *       *
+      *%ECSTD==========================================================*       *
                                             REF(SAMREF)
                                             UNIQUE
                 R FFAMI
@@ -10,7 +30,7 @@
                                             COLHDG('CREAETION' 'DATE')
                   FAMOD           Z         TEXT('LAST MODIFICATION')
                                             COLHDG('LAST' 'MODIFICATION')
-                  FAMODID       10          TEXT('LAS MOD BY')
+                  FAMODID       32          TEXT('LAS MOD BY')
                                             COLHDG('LAST' 'MODIF.' 'BY')
                   FADEL     R               REFFLD(DLCODE)
                 K FAID
