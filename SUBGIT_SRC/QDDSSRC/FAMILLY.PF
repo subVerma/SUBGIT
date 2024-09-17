@@ -33,5 +33,9 @@
                                             COLHDG('LAST' 'MODIFICATION')
                   FAMODID       52          TEXT('LAS MOD BY')
                                             COLHDG('LAST' 'MODIF.' 'BY')
+
+                  FAMODID1      52          TEXT('LAS MOD BY')
+
+                  FAMODID2      52          TEXT('LAS MOD BY')
                   FADEL     R               REFFLD(DLCODE)
                 K FAID
